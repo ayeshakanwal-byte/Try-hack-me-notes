@@ -1,0 +1,33 @@
+# Room: Linux Fundamentals
+Platform: TryHackMe  
+Difficulty: Easy  
+Date:  
+
+## Objective
+Learn basic Linux commands and file navigation.
+
+## Tools / Commands Used
+- ls
+- cd
+- cat
+- whoami
+- find
+- grep
+- echo
+
+## shell Operator
+- &
+- &&
+- >
+- >>
+
+## Summary
+I used basic Linux commands to navigate directories and view files. This helped me understand how Linux systems are structured.
+
+## What I Learned
+- How to move between directories
+- How to view file content
+- Basic Linux navigation
+
+## Mistakes / Confusion
+I initially get confused on whoami command, i wrote the first letter capital. i am having troubles in using cat command alo, in some point i forgot how to jump from one directories.
