@@ -1,0 +1,15 @@
+#Room: DNS in Details
+Platform: Tryhackme
+
+#objective:
+To learn how website works on the internet. For the better understanding of How domains works or how they used differently for different purposes.
+
+#What i learned?
+What is DNS?
+Domain Hierarchy
+Types of TLD
+DNS Record types
+What happens when you  make a request?
+#Mistakes or Confusion
+During applying task 3 in the virtual machine, i got confused about the DNS requests that what are the requests he want me to use. By spending 15
+to 20.I found it and do my task.
